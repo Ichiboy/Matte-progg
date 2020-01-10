@@ -10,10 +10,7 @@ namespace Matte__progg
     {
         static void Main(string[] args)
         {
-            int y = 0;
-            int k = 0;
-            int x = 0;
-            int m = 0;
+
             double punkt1y = 0;
             double punkt1x = 0;
             double punkt2y = 0;
